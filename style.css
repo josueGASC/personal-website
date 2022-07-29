@@ -1,0 +1,20 @@
+body {
+    background-color: lightgray;
+}
+
+#navBar {
+    display: flex;
+    background-color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-size: 40px;
+    font-family: "PT Sans", Calibri, Tahoma, Verdana, Geneva, Tahoma, sans-serif;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#eeveeGif {
+    width: 4%;
+    border-radius: 50%;
+}
